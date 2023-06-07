@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@correo.com",
+      "telefono": "102013313",
+      "notas": "Juan",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Codigo Con Karen",
+      "email": "karen@correo.com",
+      "telefono": "138198313",
+      "notas": "aaaaa",
+      "id": 2
+    },
+    {
+      "nombre": "Miguel",
+      "empresa": "Codigo Con Miguel",
+      "email": "miguel@correo.com",
+      "telefono": "319381983",
+      "notas": "prueba",
+      "id": 4
+    },
+    {
+      "nombre": "Pedro",
+      "empresa": "Codigo Con Pedro",
+      "email": "pedro@correo.com",
+      "telefono": "1398198938",
+      "notas": "asdasdasdasd",
+      "id": 5
+    }
+  ]
+}
